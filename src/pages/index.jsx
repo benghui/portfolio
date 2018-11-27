@@ -256,7 +256,7 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            Code is poetry - clear and concise, telling machines what to do, where, when and how to do it. I aspire to write good code and documentation so that other programmers can easily understand what I'm conveying, in collaboration with others, as I find solutions to problems. 
+            Code is poetry - clear and concise, telling machines what to do, where, when and how to do it. I aspire to write good code and documentation so that other programmers can easily understand what I'm conveying as I find solutions to problems in collaboration with others. 
           </AboutDesc>
         </Inner>
       </Content>
