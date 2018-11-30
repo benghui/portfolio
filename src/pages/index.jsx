@@ -256,7 +256,7 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            Code is poetry - clear and concise, telling machines what to do, where, when and how to do it. I aspire to write good code and documentation so that other programmers can easily understand what I'm conveying, in collaboration with others, as I find solutions to problems. 
+            Code is poetry - clear and concise, telling machines what to do, where, when and how to do it. I aspire to write good code and documentation so that other programmers can easily understand what I'm conveying as I find solutions to problems in collaboration with others. 
           </AboutDesc>
         </Inner>
       </Content>
@@ -281,7 +281,7 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:benghui@gmail.com">Hi</a> or find me on other platforms:{' '}
-            <a href="https://github.com/benghui">Github</a> & <a href="https://www.instagram.com/benghui/">Instagram</a>
+            <a href="https://github.com/benghui">Github</a> & <a href="https://www.linkedin.com/in/benghui/">LinkedIn</a>
           </ContactText>
         </Inner>
         <Footer>
